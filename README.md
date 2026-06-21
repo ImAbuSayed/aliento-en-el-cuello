@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aliento-en-el-cuello/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Aliento en el cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-en-el-cuello/) |
+| **Get License** | [Secure Licensing Rights for Aliento en el cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-en-el-cuello/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
