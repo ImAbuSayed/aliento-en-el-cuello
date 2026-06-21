@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aliento-en-el-cuello/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Aliento en el cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-en-el-cuello/) |
+| **Get License** | [Official Music Licensing for Aliento en el cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-en-el-cuello/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento tu aliento en el cuello, mami, qué calor
+> Tus labios me llaman en el medio del salón
+> Esta noche es nuestra, no miremos el reloj
+> Bailando en la luna con el bajo y el dembow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
