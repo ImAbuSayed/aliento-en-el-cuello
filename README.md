@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aliento-en-el-cuello/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Aliento en el cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-en-el-cuello/) |
+| **Get License** | [Get a Licensing Quote for Aliento en el cuello](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-en-el-cuello/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -109,8 +109,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `50a2496ff822d9dd991f865edaae833196227e8739acf68e45869a044a1e64ce` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `4b120a091044046f54013658d929875a61862d0df868e2721f253468d1495aca` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

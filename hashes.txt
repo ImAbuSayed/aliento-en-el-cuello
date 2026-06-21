@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Aliento 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T04:09:28.658438 | `v1` | `50a2496ff822d9dd991f865edaae833196227e8739acf68e45869a044a1e64ce` | `5c1d36422cc92b58b68b13dd6bd28b0bf23b866dfcf80048314a29a8fb4ebb02` | `2026-06-22_aliento-en-el-cuello-v1.txt` |
+| 2026-06-22T04:10:29.042835 | `v2` | `4b120a091044046f54013658d929875a61862d0df868e2721f253468d1495aca` | `a77d98470be7436d6be6315f9550540625066855e3cc75b2fa73d8c26e038562` | `2026-06-22_aliento-en-el-cuello-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
