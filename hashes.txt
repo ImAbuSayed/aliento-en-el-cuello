@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aliento en el cuello
+
+This log tracks the cryptographic history and versioning for the song **Aliento en el cuello** (aliento-en-el-cuello).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T04:09:28.658438 | `v1` | `50a2496ff822d9dd991f865edaae833196227e8739acf68e45869a044a1e64ce` | `5c1d36422cc92b58b68b13dd6bd28b0bf23b866dfcf80048314a29a8fb4ebb02` | `2026-06-22_aliento-en-el-cuello-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
